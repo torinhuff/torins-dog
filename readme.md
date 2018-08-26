@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a basic HTML Page listing interesting things about Torin's dog, Charlie.
+This is a basic HTML Page listing interesting things and showing pictures that tell more about Torin's dog, Charlie.
 
 ## Setup/Installation Requirements
 
